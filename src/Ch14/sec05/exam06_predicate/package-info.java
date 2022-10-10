@@ -1,0 +1,1 @@
+package Ch14.sec05.exam06_predicate;
